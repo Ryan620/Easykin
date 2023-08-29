@@ -1,0 +1,15 @@
+#hypothosis	individual	father	mother	sex	status
+H1	POI	fa	mo	2	1
+H1	fa	gf	gm	1	0
+H1	mo	NA	NA	2	0
+H1	gf	NA	NA	1	0
+H1	gm	NA	NA	2	0
+H1	uncle	gf	gm	1	0
+H1	aunt	NA	NA	2	0
+H1	fc	uncle	aunt	1	1
+H2	POI	random1	random2	2	1
+H2	random1	NA	NA	1	0
+H2	random2	NA	NA	2	0
+H2	uncle	NA	NA	1	0
+H2	aunt	NA	NA	2	0
+H2	fc	uncle	aunt	1	1
